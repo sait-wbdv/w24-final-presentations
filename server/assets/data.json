@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Brittany Maraneta",
+    "image": "/assets/images/brittany.jpg",
+    "tagLine": "Embarking on a Creative Journey, Blending Art with Technology",
+    "socials": [
+      {
+        "platform": "github",
+        "url": "https://github.com/Brittany-Maraneta"
+      },
+      {
+        "platform": "linkedIn",
+        "url": "https://www.linkedin.com/in/brittany-maraneta-3717a71a1/"
+      }
+    ],
+    "project": {
+      "title": "'WE TRAVEL!' A Travel Blog made for Travelers and from Travelers",
+      "url": "https://bmaras-travel-blog-rjme72jzb-brittany-maranetas-projects.vercel.app/",
+      "repo": ""
+    }
+  },
+  {
+    "name": "",
+    "image": "",
+    "tagLine": "",
+    "github": "",
+    "socials": [],
+    "project": {
+      "title": "",
+      "url": "",
+      "repo": ""
+    }
+  },
+  {
+    "name": "",
+    "image": "",
+    "tagLine": "",
+    "github": "",
+    "socials": [],
+    "project": {
+      "title": "",
+      "url": "",
+      "repo": ""
+    }
+  },
+  {
+    "name": "",
+    "image": "",
+    "tagLine": "",
+    "github": "",
+    "socials": [],
+    "project": {
+      "title": "",
+      "url": "",
+      "repo": ""
+    }
+  },
+  {
+    "name": "",
+    "image": "",
+    "tagLine": "",
+    "github": "",
+    "socials": [],
+    "project": {
+      "title": "",
+      "url": "",
+      "repo": ""
+    }
+  },
+  {
+    "name": "",
+    "image": "",
+    "tagLine": "",
+    "github": "",
+    "socials": [],
+    "project": {
+      "title": "",
+      "url": "",
+      "repo": ""
+    }
+  },
+  {
+    "name": "",
+    "image": "",
+    "tagLine": "",
+    "github": "",
+    "socials": [],
+    "project": {
+      "title": "",
+      "url": "",
+      "repo": ""
+    }
+  },
+  {
+    "name": "",
+    "image": "",
+    "tagLine": "",
+    "github": "",
+    "socials": [],
+    "project": {
+      "title": "",
+      "url": "",
+      "repo": ""
+    }
+  },
+  {
+    "name": "",
+    "image": "",
+    "tagLine": "",
+    "github": "",
+    "socials": [],
+    "project": {
+      "title": "",
+      "url": "",
+      "repo": ""
+    }
+  },
+  {
+    "name": "",
+    "image": "",
+    "tagLine": "",
+    "github": "",
+    "socials": [],
+    "project": {
+      "title": "",
+      "url": "",
+      "repo": ""
+    }
+  }
+]
