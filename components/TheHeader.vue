@@ -27,20 +27,6 @@ const route = useRoute();
               >Agenda</NuxtLink
             >
           </li>
-          <li>
-            <NuxtLink
-              to="/students"
-              class="hover:text-blue-300 duration-150 ease-linear active:text-blue-400"
-              >Students</NuxtLink
-            >
-          </li>
-          <li>
-            <NuxtLink
-              to="/about"
-              class="hover:text-blue-300 duration-150 ease-linear active:text-blue-400"
-              >Course Info</NuxtLink
-            >
-          </li>
         </ul>
       </div>
     </nav>

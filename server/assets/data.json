@@ -16,7 +16,7 @@
     "project": {
       "title": "WE TRAVEL!",
       "description": "A Travel Blog made for Travelers and from Travelers",
-      "url": "https://bmaras-travel-blog-rjme72jzb-brittany-maranetas-projects.vercel.app/",
+      "url": "https://bmaras-travel-blog.vercel.app/",
       "repo": ""
     }
   },
@@ -37,7 +37,7 @@
     "project": {
       "title": "Dice Game",
       "description": "A two player dice and trivia game.",
-      "url": "",
+      "url": "https://cpnt-265-a-final-k5oa.vercel.app/",
       "repo": ""
     }
   },
@@ -56,7 +56,7 @@
       "title": "4Play",
       "description": "An app for gamers.",
       "url": "",
-      "repo": "https://github.com/dhawryluk/capstone"
+      "repo": "https://capstone-y78z-qjbl54s2e-dhawryluks-projects.vercel.app/"
     },
     "extra": [{ "email": "derek.hawryluk@gmail.com" }]
   },
@@ -132,7 +132,7 @@
     "project": {
       "title": "Movie Mingle",
       "description": "A social media site for movies and tv shows",
-      "url": "https://movie-mingle-capstone-33ifwnp4g-itbrandons-projects.vercel.app/",
+      "url": "https://movie-mingle-capstone.vercel.app/login",
       "repo": ""
     }
   }
