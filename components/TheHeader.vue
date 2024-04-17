@@ -20,8 +20,27 @@ const route = useRoute();
       </div>
       <div class="border-2 rounded-full px-3">
         <ul class="flex gap-4 items-center p-2">
-          <li><NuxtLink to="/students">Students</NuxtLink></li>
-          <li><NuxtLink to="/about">Course Info</NuxtLink></li>
+          <li>
+            <NuxtLink
+              to="/"
+              class="hover:text-blue-300 duration-150 ease-linear active:text-blue-400"
+              >Agenda</NuxtLink
+            >
+          </li>
+          <li>
+            <NuxtLink
+              to="/students"
+              class="hover:text-blue-300 duration-150 ease-linear active:text-blue-400"
+              >Students</NuxtLink
+            >
+          </li>
+          <li>
+            <NuxtLink
+              to="/about"
+              class="hover:text-blue-300 duration-150 ease-linear active:text-blue-400"
+              >Course Info</NuxtLink
+            >
+          </li>
         </ul>
       </div>
     </nav>
