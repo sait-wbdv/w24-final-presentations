@@ -9,27 +9,34 @@
         "url": "https://github.com/Brittany-Maraneta"
       },
       {
-        "platform": "linkedIn",
+        "platform": "linkedin",
         "url": "https://www.linkedin.com/in/brittany-maraneta-3717a71a1/"
       }
     ],
     "project": {
-      "title": "'WE TRAVEL!' A Travel Blog made for Travelers and from Travelers",
+      "title": "WE TRAVEL!",
+      "description": "A Travel Blog made for Travelers and from Travelers",
       "url": "https://bmaras-travel-blog-rjme72jzb-brittany-maranetas-projects.vercel.app/",
       "repo": ""
     }
   },
   {
     "name": "Shayan Ardeshiri",
-    "image": "",
+    "image": "/images/students/shayan.jpg",
     "tagLine": "Web Developer",
     "socials": [
       {
-        "github": ""
+        "platform": "github",
+        "url": "https://github.com/ShawnArdeshiri"
+      },
+      {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/shayan-ardeshiri-8a14ab263/"
       }
     ],
     "project": {
-      "title": "",
+      "title": "Dice Game",
+      "description": "A two player dice and trivia game.",
       "url": "",
       "repo": ""
     }
@@ -39,31 +46,41 @@
     "image": "/images/students/derek.jpg",
     "tagLine": "'Life moves pretty fast. If you don't stop and look around once in a while, you could miss it' - Ferris Bueller",
     "socials": [
-      { "github": "https://github.com/dhawryluk/" },
-      { "linkedIn": "https://www.linkedin.com/in/derek-hawryluk/" },
-      { "email": "derek.hawryluk@gmail.com" }
+      { "platform": "github", "url": "https://github.com/dhawryluk/" },
+      {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/derek-hawryluk/"
+      }
     ],
     "project": {
       "title": "4Play",
+      "description": "An app for gamers.",
       "url": "",
       "repo": "https://github.com/dhawryluk/capstone"
-    }
+    },
+    "extra": [{ "email": "derek.hawryluk@gmail.com" }]
   },
   {
     "name": "Gabrielle Franco",
     "image": "/images/students/gabby.jpeg",
     "tagLine": "Web Developer",
     "socials": [
-      { "github": "https://github.com/gabfranc" },
-      { "linkedIn": "https://www.linkedin.com/in/gabrielle-franco/" },
-      { "email": "gabriellafranco@gmail.com" },
-      { "portfolio": "https://gabbydesign.weebly.com/" }
+      { "platform": "github", "url": "https://github.com/gabfranc" },
+      {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/gabrielle-franco/"
+      }
     ],
     "project": {
       "title": "Quickie Foods",
+      "description": "Easy recipes fast",
       "url": "https://capstone-final-project-8ka2.vercel.app/",
       "repo": ""
-    }
+    },
+    "extra": [
+      { "email": "gabriellafranco@gmail.com" },
+      { "portfolio": "https://gabbydesign.weebly.com/" }
+    ]
   },
   {
     "name": "Kevin Yabut",
@@ -72,12 +89,13 @@
     "socials": [
       { "platform": "github", "url": "https://github.com/KevinYabut08" },
       {
-        "platform": "linkedIn",
+        "platform": "linkedin",
         "url": "https://www.linkedin.com/in/kevin-yabut-53b5b32ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
       }
     ],
     "project": {
       "title": "Aniflix",
+      "description": "A site for anime fans",
       "url": "https://capstone-chi-six.vercel.app/",
       "repo": ""
     }
@@ -89,12 +107,13 @@
     "socials": [
       { "platform": "github", "url": "https://github.com/hbuhrer" },
       {
-        "platform": "linkedIn",
+        "platform": "linkedin",
         "url": "https://www.linkedin.com/in/hendrich-buhrer/"
       }
     ],
     "project": {
       "title": "Quick Snyk",
+      "description": "Accessible security scanner",
       "url": "https://quick-snyk.onrender.com/",
       "repo": ""
     }
@@ -106,12 +125,13 @@
     "socials": [
       { "platform": "github", "url": "" },
       {
-        "platform": "linkedIn",
+        "platform": "linkedin",
         "url": "https://www.linkedin.com/in/brandon-iticka-81699327a/"
       }
     ],
     "project": {
       "title": "Movie Mingle",
+      "description": "A social media site for movies and tv shows",
       "url": "https://movie-mingle-capstone-33ifwnp4g-itbrandons-projects.vercel.app/",
       "repo": ""
     }

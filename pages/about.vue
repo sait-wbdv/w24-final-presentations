@@ -1,9 +1,11 @@
-<script lang="ts" setup></script>
+<script setup></script>
 
 <template>
-  <div>
-    Page: about
-  </div>
+  <main>
+    <header>
+      <h1>The Fast Track <span>Web Dev Program</span></h1>
+    </header>
+  </main>
 </template>
 
 <style scoped></style>
