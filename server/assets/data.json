@@ -1,7 +1,7 @@
 [
   {
     "name": "Brittany Maraneta",
-    "image": "/assets/images/brittany.jpg",
+    "image": "/images/students/brittany.jpg",
     "tagLine": "Embarking on a Creative Journey, Blending Art with Technology",
     "socials": [
       {
@@ -20,11 +20,14 @@
     }
   },
   {
-    "name": "",
+    "name": "Shayan Ardeshiri",
     "image": "",
-    "tagLine": "",
-    "github": "",
-    "socials": [],
+    "tagLine": "Web Developer",
+    "socials": [
+      {
+        "github": ""
+      }
+    ],
     "project": {
       "title": "",
       "url": "",
@@ -32,98 +35,84 @@
     }
   },
   {
-    "name": "",
-    "image": "",
-    "tagLine": "",
-    "github": "",
-    "socials": [],
+    "name": "Derek Hawryluk",
+    "image": "/images/students/derek.jpg",
+    "tagLine": "'Life moves pretty fast. If you don't stop and look around once in a while, you could miss it' - Ferris Bueller",
+    "socials": [
+      { "github": "https://github.com/dhawryluk/" },
+      { "linkedIn": "https://www.linkedin.com/in/derek-hawryluk/" },
+      { "email": "derek.hawryluk@gmail.com" }
+    ],
     "project": {
-      "title": "",
+      "title": "4Play",
       "url": "",
+      "repo": "https://github.com/dhawryluk/capstone"
+    }
+  },
+  {
+    "name": "Gabrielle Franco",
+    "image": "/images/students/gabby.jpeg",
+    "tagLine": "Web Developer",
+    "socials": [
+      { "github": "https://github.com/gabfranc" },
+      { "linkedIn": "https://www.linkedin.com/in/gabrielle-franco/" },
+      { "email": "gabriellafranco@gmail.com" },
+      { "portfolio": "https://gabbydesign.weebly.com/" }
+    ],
+    "project": {
+      "title": "Quickie Foods",
+      "url": "https://capstone-final-project-8ka2.vercel.app/",
       "repo": ""
     }
   },
   {
-    "name": "",
-    "image": "",
-    "tagLine": "",
-    "github": "",
-    "socials": [],
+    "name": "Kevin Yabut",
+    "image": "/images/students/kevin.jpg",
+    "tagLine": "Code with purpose, design with passion",
+    "socials": [
+      { "platform": "github", "url": "https://github.com/KevinYabut08" },
+      {
+        "platform": "linkedIn",
+        "url": "https://www.linkedin.com/in/kevin-yabut-53b5b32ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+      }
+    ],
     "project": {
-      "title": "",
-      "url": "",
+      "title": "Aniflix",
+      "url": "https://capstone-chi-six.vercel.app/",
       "repo": ""
     }
   },
   {
-    "name": "",
-    "image": "",
-    "tagLine": "",
-    "github": "",
-    "socials": [],
+    "name": "Hendrich Bührer",
+    "image": "/images/students/hendrich.png",
+    "tagLine": "I am a developer passionate about application security and design. I blend creative vision with practical sovtware development skills",
+    "socials": [
+      { "platform": "github", "url": "https://github.com/hbuhrer" },
+      {
+        "platform": "linkedIn",
+        "url": "https://www.linkedin.com/in/hendrich-buhrer/"
+      }
+    ],
     "project": {
-      "title": "",
-      "url": "",
+      "title": "Quick Snyk",
+      "url": "https://quick-snyk.onrender.com/",
       "repo": ""
     }
   },
   {
-    "name": "",
-    "image": "",
-    "tagLine": "",
-    "github": "",
-    "socials": [],
+    "name": "Brandon Iticka",
+    "image": "/images/students/brandon.jpg",
+    "tagLine": "I am a web developer with strong skills in programming my goal is to eventually be a backend engineer",
+    "socials": [
+      { "platform": "github", "url": "" },
+      {
+        "platform": "linkedIn",
+        "url": "https://www.linkedin.com/in/brandon-iticka-81699327a/"
+      }
+    ],
     "project": {
-      "title": "",
-      "url": "",
-      "repo": ""
-    }
-  },
-  {
-    "name": "",
-    "image": "",
-    "tagLine": "",
-    "github": "",
-    "socials": [],
-    "project": {
-      "title": "",
-      "url": "",
-      "repo": ""
-    }
-  },
-  {
-    "name": "",
-    "image": "",
-    "tagLine": "",
-    "github": "",
-    "socials": [],
-    "project": {
-      "title": "",
-      "url": "",
-      "repo": ""
-    }
-  },
-  {
-    "name": "",
-    "image": "",
-    "tagLine": "",
-    "github": "",
-    "socials": [],
-    "project": {
-      "title": "",
-      "url": "",
-      "repo": ""
-    }
-  },
-  {
-    "name": "",
-    "image": "",
-    "tagLine": "",
-    "github": "",
-    "socials": [],
-    "project": {
-      "title": "",
-      "url": "",
+      "title": "Movie Mingle",
+      "url": "https://movie-mingle-capstone-33ifwnp4g-itbrandons-projects.vercel.app/",
       "repo": ""
     }
   }
