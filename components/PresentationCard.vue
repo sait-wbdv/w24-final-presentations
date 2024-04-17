@@ -45,7 +45,6 @@ const { name, image, tagLine, socials, project } = props.presentation;
             <h3
               class="text-xl font-semibold mb-1 bg-gradient-to-r from-blue-300 to-yellow-300 text-transparent bg-clip-text"
             >
-              ``
               {{ name }}
             </h3>
 
